@@ -6,7 +6,7 @@ Hi! 👋 I'm a tech enthusiast and Systems analysis and development student. I'm
 
 📌 &nbsp;Feel free to explore my repositories or reach out for collaboration!
 
--I am currently using JAVA 🍵.
+- I am currently using JAVA 🍵.
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&color:FFF)](https://www.instagram.com/ocaua.alves/)
