@@ -14,7 +14,7 @@ Hi! 👋 I'm a tech enthusiast and Systems analysis and development student. I'm
 
 #
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <BR/>
 
@@ -28,7 +28,7 @@ Hi! 👋 I'm a tech enthusiast and Systems analysis and development student. I'm
 
 #
 
-### 📊 Estatísticas
+### 📊 Statistics
 <p align="center">
   <img width="29%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oCauaAlves&theme=city_lights"/>
   <img width="29%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oCauaAlves&theme=city_lights"/>
