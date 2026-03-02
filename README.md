@@ -30,9 +30,9 @@ Hi! 👋 I'm a tech enthusiast and Systems analysis and development student. I'm
 
 ### 📊 Estatísticas
 <p align="center">
-  <img width="28%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oCauaAlves&theme=city_lights"/>
-  <img width="28%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oCauaAlves&theme=city_lights"/>
-  <img width="28%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oCauaAlves&theme=city_lights&utcOffset=8"/>
+  <img width="29%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oCauaAlves&theme=city_lights"/>
+  <img width="29%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oCauaAlves&theme=city_lights"/>
+  <img width="29%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oCauaAlves&theme=city_lights&utcOffset=8"/>
 </p>
 <p align="center">
   <img width="87%" 
