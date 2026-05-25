@@ -20,7 +20,7 @@ Hi! 👋 I'm a tech enthusiast and Systems analysis and development student. I'm
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,docker,gcp,idea,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,mysql,postgres,mongodb,docker,gcp,idea,vscode,postman" />
   </a>
 </p>
 
