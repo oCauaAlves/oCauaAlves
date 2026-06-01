@@ -31,13 +31,13 @@ Hi! 👋 I'm a tech enthusiast and Systems analysis and development student. I'm
 ### 📊 Statistics
 <br/>
 <p align="center">
-  <img width="29%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oCauaAlves&theme=city_lights"/>
-  <img width="29%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oCauaAlves&theme=city_lights"/>
-  <img width="29%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oCauaAlves&theme=city_lights&utcOffset=8"/>
+  <img width="29%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oCauaAlves&theme=prussian"/>
+  <img width="29%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oCauaAlves&theme=prussian"/>
+  <img width="29%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oCauaAlves&theme=prussian&utcOffset=8"/>
 </p>
 <p align="center">
   <img width="87%" 
-       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oCauaAlves&theme=city_lights"/>
+       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oCauaAlves&theme=prussian"/>
 </p>
 
 #
